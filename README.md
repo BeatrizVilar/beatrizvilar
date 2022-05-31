@@ -1,7 +1,7 @@
 Olá!
 
 - 👩‍💻 I’m interested in Front-End and Back-End Developing
-- 📚 I’m currently learning Java, JavaScript, NodeJS, HTML and CSS 
+- 📚 I’m currently learning JavaScript, Java, NodeJS, HTML and CSS 
 - 📫 How to reach me... send me an <a href="mailto:beatrizvguima@gmail.com?Subject=Olá" target="_top">e-mail</a>
 
 <div>
