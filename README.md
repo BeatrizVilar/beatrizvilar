@@ -1,4 +1,4 @@
-Olá!
+Olá!!
 
 - 👩‍💻 I’m interested in Front-End and Back-End Developing
 - 📚 I’m currently learning Java, JavaScript, NodeJS, HTML and CSS 
